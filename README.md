@@ -1,4 +1,4 @@
-# Archotech_PowerArmor_1.5
+# Archotech PowerArmor 1.5
 This is an updated version of the mod which now works for Rimworld 1.5. Unlike the (Continued) version, this mod preserves the Insanity Lance and Shock Lance abilities, as well as a grenade ability and another surprise.
 The old mod for 1.4 had compatibility for More Archotech Garbage and Archotech expanded but I didn't include that because I have bigger plans for Archotech Expanded and AFAIK, More Archotech Garbage doesn't work properly on 1.5, At least that was my experience. I have time at the moment to improve the mod based on recommendations so they are welcome.
 
