@@ -74,7 +74,7 @@
 	<!-- Helmet v1 -->
 	<ThingDef ParentName="APA_HelmetBase">
 		<defName>Archotech_Helmet_One</defName>
-		<label>Archotech Helmet v1</label>
+		<label>Archotech Shock Helmet v1</label>
 		<description>Made from Archotech into wearable armor for humans, the exact synthesis process isn't entirely understood; through either a complex process of electrophysics with an enormous amount of plasteel, or the introduction of programmed computer chips and circuit boards to existing archotech material, the result is an ultimately comfortable and invincible piece of equipment. The helmet is completely encased in archotech material yet the wearer maintains a perfect, even enhanced, line of sight</description>
 		<graphicData>
 			<texPath>Things/archotechPowerArmor/Archotech_Helmet_One_UI</texPath>
@@ -88,7 +88,7 @@
 	<!-- Helmet v2 -->
 	<ThingDef ParentName="APA_HelmetBase">
 		<defName>Archotech_Helmet_Two</defName>
-		<label>Archotech Helmet v2</label>
+		<label>Archotech Insanity Helmet v2</label>
 		<description>Made from Archotech into wearable armor for humans, the exact synthesis process isn't entirely understood; through either a complex process of electrophysics with an enormous amount of plasteel, or the introduction of programmed computer chips and circuit boards to existing archotech material, the result is an ultimately comfortable and invincible piece of equipment. The helmet comes with a tinted visor that includes sensitive displays and system functions, yet the material is just as durable as the rest of the "metal" plate</description>
 		<graphicData>
 			<texPath>Things/archotechPowerArmor/Archotech_Helmet_Two_UI</texPath>
